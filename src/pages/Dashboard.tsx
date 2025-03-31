@@ -191,7 +191,7 @@ const Dashboard = () => {
                     <TabsTrigger 
                       key={item.id} 
                       value={item.id}
-                      className="w-auto py-3 h-auto flex items-center rounded-full data-[state=active]:bg-blue-600 data-[state=active]:text-white"
+                      className="w-full py-3 h-auto flex items-center rounded-full data-[state=active]:bg-blue-600 data-[state=active]:text-white"
                     >
                       {item.icon}
                       <span className="ml-2 hidden sm:inline">{item.label}</span>
