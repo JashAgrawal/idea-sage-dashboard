@@ -43,7 +43,7 @@ Your response should include these sections:
 5. Growth Strategy: Outline practical steps for scaling
 6. Competitor Analysis: Identify main competitors and differentiation points
 7. Funding Requirements: Estimate initial funding needs and allocation
-8. Idea Unique Value :- how unique is the idea in one word |  eg responses :-  (unique, innovative, disruptive, transformative, game-changing)
+8. Idea Unique Value :- how uniqueness is the idea in one word |  eg responses :-  (low, medium, high, disruptive, inspirational)
 9. Target Market Size (in usd) :- what is the target market size | eg responses :-  (100K, 13M, 237M ,1B)
 10. Top Competitor Name :- who are the main competitors | eg responses :-  (Competitor A, Competitor B, Competitor C)
 11. Estimate Funding Requirements :- how much funding is needed | eg responses :-  (100K, 13M, 237M ,1B)
